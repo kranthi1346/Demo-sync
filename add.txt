@@ -1,2 +1,2 @@
-adding
+This is the new file to branch feature-2
 
